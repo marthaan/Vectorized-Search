@@ -1,0 +1,52 @@
+[
+    {
+      "MusicGenre": "EDM",
+      "SongTitle": "Majesty",
+      "Artist": "Apashe"
+    },
+    {
+      "MusicGenre": "RAP",
+      "SongTitle": "Death Row",
+      "Artist": "Young Dolph"
+    },
+    {
+      "MusicGenre": "MOTOWN",
+      "SongTitle": "You're The First, The Last, My Everything",
+      "Artist": "Barry White"
+    },
+    {
+      "MusicGenre": "EDM",
+      "SongTitle": "Hellifornia",
+      "Artist": "Gesaffelstein"
+    },
+    {
+      "MusicGenre": "EDM",
+      "SongTitle": "Safe and Sound (WWW)",
+      "Artist": "Justice"
+    },
+    {
+      "MusicGenre": "MOTOWN",
+      "SongTitle": "Saturday Nite",
+      "Artist": "Earth, Wind & Fire"
+    },
+    {
+      "MusicGenre": "RAP",
+      "SongTitle": "Claymore",
+      "Artist": "Isaiah Rashad"
+    },
+    {
+      "MusicGenre": "EDM",
+      "SongTitle": "Desire",
+      "Artist": "Sub Focus"
+    },
+    {
+      "MusicGenre": "RAP",
+      "SongTitle": "Heaven Ain't Hard 2 Find",
+      "Artist": "2Pac"
+    },
+    {
+      "MusicGenre": "MOTOWN",
+      "SongTitle": "Ball Of Confusion",
+      "Artist": "The Temptations"
+    }
+  ]
